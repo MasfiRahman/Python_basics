@@ -1,0 +1,5 @@
+#file = open("student.txt","a")
+#file = open("student.txt","w")
+file = open("student1.txt","w")
+file.write("\nAbdullah - Lecturer of EEE")
+file.close()

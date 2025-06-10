@@ -1,0 +1,10 @@
+subjects=["C","C++","Python","Android","OS","Java"]
+print(subjects)
+print(subjects[0])
+print(subjects[2:])
+print(subjects[-1])
+print("Python"in subjects)
+print("C#"in subjects)
+print("Go"not in subjects)
+print(subjects+["Swift",82])
+print(subjects*3)

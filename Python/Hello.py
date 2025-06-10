@@ -1,0 +1,6 @@
+print("Mashfi")
+print("My age is 23")
+print("My University is UAP" , "My CGPA is not Good")
+print(10)
+print(10.7)
+print(23101182)
